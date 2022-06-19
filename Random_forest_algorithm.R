@@ -1,9 +1,7 @@
 ###############################################################################
-#   Creates Functions on the Following:
-#                  - Direct Standardised Rate
-#                  - Dobson Confidence Interval
-#                  - Benchmark Significance
-#
+# Creates prediction model for lung cancer using kaggle data uses random
+# forest model
+###############################################################################
 # INSTALL PACKAGES ############################################################
 
 #install.packages("tidyverse")
